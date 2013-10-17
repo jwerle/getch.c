@@ -1,0 +1,9 @@
+{
+  "name": "getch.h",
+  "version": "0.0.1",
+  "repo": "jwerle/getch.h",
+  "description": "getch() implementation",
+  "keywords": ["char", "getch"],
+  "license": "MIT",
+  "src": ["getch.h"]
+}
