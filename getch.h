@@ -1,6 +1,5 @@
-
-#ifndef __GETCH_H__
-#define __GETCH_H__ 1
+#ifndef GETCH_H
+#define GETCH_H 1
 
 #include <stdio.h>
 #include <stdlib.h>
