@@ -1,4 +1,4 @@
-getch.h
+getch.c
 =======
 
 getch() implementation
