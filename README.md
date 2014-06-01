@@ -5,7 +5,7 @@ getch() implementation
 
 ## install
 
-```c
+```sh
 $ clib install jwerle/getch.h
 ```
 
